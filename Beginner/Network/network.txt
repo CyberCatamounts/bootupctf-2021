@@ -1,0 +1,39 @@
+
+*
+
+100pts
+ne01
+Challenge already completed
+Briefing
+
+Things will start to get more difficult now, use the hints and the explanations.
+
+Access the network service at 1-ne01.bootupctf.com port: 7904 and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 3 hints.
+
+*
+250pts
+nm01
+Challenge already completed
+Briefing
+
+Things will start to get more difficult now, use the hints and the explanations.
+
+Access the network service at 1-nm01.bootupctf.com port: 7906 and find a way to get the flag.
+
+Note: The password policy requires at least one capital letter, and four digits. The policy is also to force a password change every year.
+Hints
+Challenge complete, you used 0 of 2 hints.
+
+*
+500pts
+nh01
+Challenge already completed
+Briefing
+
+Things will start to get more difficult now, use the hints and the explanations.
+
+Access the network service at 1-nh01.bootupctf.com port: 7905 and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 3 hints.

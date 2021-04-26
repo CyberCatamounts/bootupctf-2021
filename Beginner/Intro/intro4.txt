@@ -1,0 +1,46 @@
+50pts
+intro04
+Challenge already completed
+Briefing
+
+Playing CTFs is a skill in its own right, challenges require security knowledge taken from various disciplines but they are often more like puzzles than something encountered in the course of your work. No matter how good you are at your discipline you will need practice to recognise the types of challenges presented and know what knowledge is the key to solving those challenges.
+
+This CTF is designed to teach you the skills required to get started playing CTFs. We will start by walking you through the basics and then progress to giving you less information as the challenge tiers progress in difficulty.
+
+It is important to note that most CTFs will be like the harder challenges from this CTF with minimal information or hints provided.
+
+You will need some kind of Linux system. If you do not have one you can get a copy of VMWare Player or Virtualbox and install a Linux distribution inside a Virtual Machine. Do this before you start. There are plenty of resources online that can guide you through this process. We would recommend Ubuntu Desktop for anyone new to Linux.
+
+We'll start with flags.
+Introduction
+
+There are several ways challenges can be served in a CTF. Most commonly:
+
+    A website
+    A network service
+    A file download
+
+In this challenge we will be looking at a file download. Notice the language in the briefing of the challenge below.
+Briefing
+
+Download the file at https://1-files.bootupctf.com/tut04.zip and then find a way to get the flag.
+Step by Step
+
+In a normal CTF the briefing is usually all you would get. We're going to get you started by guiding you through this challenge.
+
+You should have access to a Linux system either natively, through virtualisation, WSL or similar. Download and extract the file at the link provided to your Linux system.
+
+Most commonly executable files will be compiled for Linux, you can check using the Linux file command.
+
+Open the terminal and change directory into the folder you extracted the challenge file into then use the file command:
+
+file ./program
+
+The information you get back should tell you what kind of file you have, be it an executable or some other file type and also which operating system and architecture it was compiled for.
+
+Once you are sure your system can run the file if it is an executable, make sure it has executable permissions and run it:
+
+chmod u+x ./program
+./program
+
+This should give you the flag.

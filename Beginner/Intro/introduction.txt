@@ -1,0 +1,11 @@
+Introduction
+
+Playing CTFs is a skill in its own right, challenges require security knowledge taken from various disciplines but they are often more like puzzles than something encountered in the course of your work. No matter how good you are at your discipline you will need practice to recognise the types of challenges presented and know what knowledge is the key to solving those challenges.
+
+This CTF is designed to teach you the skills required to get started playing CTFs. We will start by walking you through the basics and then progress to giving you less information as the challenge tiers progress in difficulty.
+
+It is important to note that most CTFs will be like the harder challenges from this CTF with minimal information or hints provided.
+
+You will need some kind of Linux system. If you do not have one you can get a copy of VMWare Player or Virtualbox and install a Linux distribution inside a Virtual Machine. Do this before you start. There are plenty of resources online that can guide you through this process. We would recommend Ubuntu Desktop for anyone new to Linux.
+
+We'll start with flags.

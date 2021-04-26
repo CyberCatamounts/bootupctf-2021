@@ -1,0 +1,40 @@
+100pts
+be01
+Challenge already completed
+Briefing
+
+Binary challenges are generally difficult, we've made them a little easier for you here and provided explanations of the processes if you get stuck. Once you have completed the challenges or as many as can move on to the intermediate game.
+
+Access the network service at 1-be01.bootupctf.com and port: 7901 and find a way to get the flag.
+
+As this is a binary exploitation challenge, you should start by looking for buffer overflows.
+Hints
+Challenge complete, you used 0 of 2 hints.
+
+*
+
+
+1,000pts
+bh01
+Challenge already completed
+Briefing
+
+Binary challenges are generally difficult, we've made them a little easier for you here and provided explanations of the processes if you get stuck. Once you have completed the challenges or as many as can move on to the intermediate game.
+
+Download the files at https://1-files.bootupctf.com/bh01.zip and solve the challenge to get a placeholder flag.
+
+When you have the placeholder flag submit the same solution to the network service at 1-bh01.bootupctf.com and port: 7911 to get the real flag.
+Hints
+Challenge complete, you used 0 of 1 hints.
+
+*
+500pts
+bh02
+Challenge already completed
+Briefing
+
+Binary challenges are generally difficult, we've made them a little easier for you here and provided explanations of the processes if you get stuck. Once you have completed the challenges or as many as can move on to the intermediate game.
+
+Access the network service at 1-bm01.bootupctf.com and port: 7902 and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 5 hints.

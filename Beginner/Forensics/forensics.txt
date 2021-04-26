@@ -1,0 +1,63 @@
+100pts
+fe01
+Challenge already completed
+Briefing
+
+Forensics is very popular in CTFs, take a look at these challenges and read closely the challenge questions, they often have clues to the answers in the wording.
+
+Download the file at https://1-files.bootupctf.com/fe01.zip and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 1 hints.
+
+*
+
+100pts
+fe02
+Challenge already completed
+Briefing
+
+Forensics is very popular in CTFs, take a look at these challenges and read closely the challenge questions, they often have clues to the answers in the wording.
+
+Download the file at https://1-files.bootupctf.com/fe02.zip
+Hints
+Challenge complete, you used 0 of 2 hints.
+
+*
+
+250pts
+fm01
+Challenge already completed
+Briefing
+
+Forensics is very popular in CTFs, take a look at these challenges and read closely the challenge questions, they often have clues to the answers in the wording.
+
+Download the file at https://1-files.bootupctf.com/fm01.zip and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 4 hints.
+
+*
+
+500pts
+fh01
+Challenge already completed
+Briefing
+
+Forensics is very popular in CTFs, take a look at these challenges and read closely the challenge questions, they often have clues to the answers in the wording.
+
+Download the file at https://1-files.bootupctf.com/fh01.zip and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 2 hints.
+
+*
+
+1,000pts
+fx01
+Challenge already completed
+Briefing
+
+Forensics is very popular in CTFs, take a look at these challenges and read closely the challenge questions, they often have clues to the answers in the wording.
+
+Download the file at https://1-files.bootupctf.com/fx01.zip and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 5 hints.
+

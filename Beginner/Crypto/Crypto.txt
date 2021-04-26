@@ -1,0 +1,50 @@
+100pts
+ce01
+Challenge already completed
+Briefing
+
+Crypto challenges vary in difficulty, these start off easy and get harder, use the hints
+
+Download the file at https://1-files.bootupctf.com/ce01.zip and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 2 hints.
+
+
+***
+
+100pts
+ce02
+Challenge already completed
+Briefing
+
+Crypto challenges vary in difficulty, these start off easy and get harder, use the hints
+
+Download the file at https://1-files.bootupctf.com/ce02.zip and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 3 hints.
+
+***
+250pts
+cm01
+Challenge already completed
+Briefing
+
+Crypto challenges vary in difficulty, these start off easy and get harder, use the hints
+
+Download the file at https://1-files.bootupctf.com/cm01.zip and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 4 hints.
+***
+
+500pts
+ch01
+Challenge already completed
+Briefing
+
+Crypto challenges vary in difficulty, these start off easy and get harder, use the hints
+
+Download the file at https://1-files.bootupctf.com/ch01.zip and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 3 hints.
+
+***

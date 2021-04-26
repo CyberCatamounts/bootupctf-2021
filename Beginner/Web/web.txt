@@ -1,0 +1,54 @@
+100pts
+we01
+Challenge already completed
+Briefing
+
+Here is a selection of web challenges to get you started, try and solve them on your own, if you get stuck take a hint, or 2.
+
+Access the site at https://1-we01.bootupctf.com/ and find a way to get the flag.
+
+
+*
+
+
+250pts
+wm01
+Challenge already completed
+Briefing
+
+Here is a selection of web challenges to get you started, try and solve them on your own, if you get stuck take a hint, or 2.
+
+Access the site at https://1-wm01.bootupctf.com/ and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 2 hints.
+
+*
+
+
+500pts
+wh01
+Challenge already completed
+Briefing
+
+Here is a selection of web challenges to get you started, try and solve them on your own, if you get stuck take a hint, or 2.
+
+Access the site at https://1-wh01.bootupctf.com/ and find a way to get the flag.
+Hints
+Challenge complete, you used 0 of 2 hints.
+
+
+**
+
+
+1,000pts
+wx01
+Challenge already completed
+Briefing
+
+Here is a selection of web challenges to get you started, try and solve them on your own, if you get stuck take a hint, or 2.
+
+Access the site at https://1-wx01.bootupctf.com/, then find and read the contents of the flag file to get the flag.
+
+Top Tip - the flag doesn't include a dash or values after a dash
+Hints
+Challenge complete, you used 0 of 3 hints.
